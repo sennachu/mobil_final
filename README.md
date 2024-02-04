@@ -1,4 +1,4 @@
-<p>Mobil Final</p>
+<p>Mobil Programlamaya Giriş Dersi Final Uygulaması</p>
 
 
 <h1 align="center">Hi 👋, I'm Sena</h1>
